@@ -1,0 +1,759 @@
+
+
+
+# .abs_vector_0
+  00000000 00000004 .abs    vector_0	(MCUinit_c.obj)
+
+# .abs_vector_1
+  00000004 00000004 .abs    vector_1	(MCUinit_c.obj)
+
+# .abs_vector_2
+  00000008 00000004 .abs    vector_2	(MCUinit_c.obj)
+
+# .abs_vector_3
+  0000000C 00000004 .abs    vector_3	(MCUinit_c.obj)
+
+# .abs_vector_4
+  00000010 00000004 .abs    vector_4	(MCUinit_c.obj)
+
+# .abs_vector_5
+  00000014 00000004 .abs    vector_5	(MCUinit_c.obj)
+
+# .abs_vector_6
+  00000018 00000004 .abs    vector_6	(MCUinit_c.obj)
+
+# .abs_vector_7
+  0000001C 00000004 .abs    vector_7	(MCUinit_c.obj)
+
+# .abs_vector_8
+  00000020 00000004 .abs    vector_8	(MCUinit_c.obj)
+
+# .abs_vector_9
+  00000024 00000004 .abs    vector_9	(MCUinit_c.obj)
+
+# .abs_vector_10
+  00000028 00000004 .abs    vector_10	(MCUinit_c.obj)
+
+# .abs_vector_11
+  0000002C 00000004 .abs    vector_11	(MCUinit_c.obj)
+
+# .abs_vector_12
+  00000030 00000004 .abs    vector_12	(MCUinit_c.obj)
+
+# .abs_vector_13
+  00000034 00000004 .abs    vector_13	(MCUinit_c.obj)
+
+# .abs_vector_14
+  00000038 00000004 .abs    vector_14	(MCUinit_c.obj)
+
+# .abs_vector_15
+  0000003C 00000004 .abs    vector_15	(MCUinit_c.obj)
+
+# .abs_vector_16
+  00000040 00000004 .abs    vector_16	(MCUinit_c.obj)
+
+# .abs_vector_17
+  00000044 00000004 .abs    vector_17	(MCUinit_c.obj)
+
+# .abs_vector_18
+  00000048 00000004 .abs    vector_18	(MCUinit_c.obj)
+
+# .abs_vector_19
+  0000004C 00000004 .abs    vector_19	(MCUinit_c.obj)
+
+# .abs_vector_20
+  00000050 00000004 .abs    vector_20	(MCUinit_c.obj)
+
+# .abs_vector_21
+  00000054 00000004 .abs    vector_21	(MCUinit_c.obj)
+
+# .abs_vector_22
+  00000058 00000004 .abs    vector_22	(MCUinit_c.obj)
+
+# .abs_vector_23
+  0000005C 00000004 .abs    vector_23	(MCUinit_c.obj)
+
+# .abs_vector_24
+  00000060 00000004 .abs    vector_24	(MCUinit_c.obj)
+
+# .abs_vector_25
+  00000064 00000004 .abs    vector_25	(MCUinit_c.obj)
+
+# .abs_vector_26
+  00000068 00000004 .abs    vector_26	(MCUinit_c.obj)
+
+# .abs_vector_27
+  0000006C 00000004 .abs    vector_27	(MCUinit_c.obj)
+
+# .abs_vector_28
+  00000070 00000004 .abs    vector_28	(MCUinit_c.obj)
+
+# .abs_vector_29
+  00000074 00000004 .abs    vector_29	(MCUinit_c.obj)
+
+# .abs_vector_30
+  00000078 00000004 .abs    vector_30	(MCUinit_c.obj)
+
+# .abs_vector_31
+  0000007C 00000004 .abs    vector_31	(MCUinit_c.obj)
+
+# .abs_vector_32
+  00000080 00000004 .abs    vector_32	(MCUinit_c.obj)
+
+# .abs_vector_33
+  00000084 00000004 .abs    vector_33	(MCUinit_c.obj)
+
+# .abs_vector_34
+  00000088 00000004 .abs    vector_34	(MCUinit_c.obj)
+
+# .abs_vector_35
+  0000008C 00000004 .abs    vector_35	(MCUinit_c.obj)
+
+# .abs_vector_36
+  00000090 00000004 .abs    vector_36	(MCUinit_c.obj)
+
+# .abs_vector_37
+  00000094 00000004 .abs    vector_37	(MCUinit_c.obj)
+
+# .abs_vector_38
+  00000098 00000004 .abs    vector_38	(MCUinit_c.obj)
+
+# .abs_vector_39
+  0000009C 00000004 .abs    vector_39	(MCUinit_c.obj)
+
+# .abs_vector_40
+  000000A0 00000004 .abs    vector_40	(MCUinit_c.obj)
+
+# .abs_vector_41
+  000000A4 00000004 .abs    vector_41	(MCUinit_c.obj)
+
+# .abs_vector_42
+  000000A8 00000004 .abs    vector_42	(MCUinit_c.obj)
+
+# .abs_vector_43
+  000000AC 00000004 .abs    vector_43	(MCUinit_c.obj)
+
+# .abs_vector_44
+  000000B0 00000004 .abs    vector_44	(MCUinit_c.obj)
+
+# .abs_vector_45
+  000000B4 00000004 .abs    vector_45	(MCUinit_c.obj)
+
+# .abs_vector_46
+  000000B8 00000004 .abs    vector_46	(MCUinit_c.obj)
+
+# .abs_vector_47
+  000000BC 00000004 .abs    vector_47	(MCUinit_c.obj)
+
+# .abs_vector_48
+  000000C0 00000004 .abs    vector_48	(MCUinit_c.obj)
+
+# .abs_vector_49
+  000000C4 00000004 .abs    vector_49	(MCUinit_c.obj)
+
+# .abs_vector_50
+  000000C8 00000004 .abs    vector_50	(MCUinit_c.obj)
+
+# .abs_vector_51
+  000000CC 00000004 .abs    vector_51	(MCUinit_c.obj)
+
+# .abs_vector_52
+  000000D0 00000004 .abs    vector_52	(MCUinit_c.obj)
+
+# .abs_vector_53
+  000000D4 00000004 .abs    vector_53	(MCUinit_c.obj)
+
+# .abs_vector_54
+  000000D8 00000004 .abs    vector_54	(MCUinit_c.obj)
+
+# .abs_vector_55
+  000000DC 00000004 .abs    vector_55	(MCUinit_c.obj)
+
+# .abs_vector_56
+  000000E0 00000004 .abs    vector_56	(MCUinit_c.obj)
+
+# .abs_vector_57
+  000000E4 00000004 .abs    vector_57	(MCUinit_c.obj)
+
+# .abs_vector_58
+  000000E8 00000004 .abs    vector_58	(MCUinit_c.obj)
+
+# .abs_vector_59
+  000000EC 00000004 .abs    vector_59	(MCUinit_c.obj)
+
+# .abs_vector_60
+  000000F0 00000004 .abs    vector_60	(MCUinit_c.obj)
+
+# .abs_vector_61
+  000000F4 00000004 .abs    vector_61	(MCUinit_c.obj)
+
+# .abs_vector_62
+  000000F8 00000004 .abs    vector_62	(MCUinit_c.obj)
+
+# .abs_vector_63
+  000000FC 00000004 .abs    vector_63	(MCUinit_c.obj)
+
+# .abs_vector_64
+  00000100 00000004 .abs    vector_64	(MCUinit_c.obj)
+
+# .abs_vector_65
+  00000104 00000004 .abs    vector_65	(MCUinit_c.obj)
+
+# .abs_vector_66
+  00000108 00000004 .abs    vector_66	(MCUinit_c.obj)
+
+# .abs_vector_67
+  0000010C 00000004 .abs    vector_67	(MCUinit_c.obj)
+
+# .abs_vector_68
+  00000110 00000004 .abs    vector_68	(MCUinit_c.obj)
+
+# .abs_vector_69
+  00000114 00000004 .abs    vector_69	(MCUinit_c.obj)
+
+# .abs_vector_70
+  00000118 00000004 .abs    vector_70	(MCUinit_c.obj)
+
+# .abs_vector_71
+  0000011C 00000004 .abs    vector_71	(MCUinit_c.obj)
+
+# .abs_vector_72
+  00000120 00000004 .abs    vector_72	(MCUinit_c.obj)
+
+# .abs_vector_73
+  00000124 00000004 .abs    vector_73	(MCUinit_c.obj)
+
+# .abs_vector_74
+  00000128 00000004 .abs    vector_74	(MCUinit_c.obj)
+
+# .abs_vector_75
+  0000012C 00000004 .abs    vector_75	(MCUinit_c.obj)
+
+# .abs_vector_76
+  00000130 00000004 .abs    vector_76	(MCUinit_c.obj)
+
+# .abs_vector_77
+  00000134 00000004 .abs    vector_77	(MCUinit_c.obj)
+
+# .abs_vector_78
+  00000138 00000004 .abs    vector_78	(MCUinit_c.obj)
+
+# .abs_vector_79
+  0000013C 00000004 .abs    vector_79	(MCUinit_c.obj)
+
+# .abs_vector_80
+  00000140 00000004 .abs    vector_80	(MCUinit_c.obj)
+
+# .abs_vector_81
+  00000144 00000004 .abs    vector_81	(MCUinit_c.obj)
+
+# .abs_vector_82
+  00000148 00000004 .abs    vector_82	(MCUinit_c.obj)
+
+# .abs_vector_83
+  0000014C 00000004 .abs    vector_83	(MCUinit_c.obj)
+
+# .abs_vector_84
+  00000150 00000004 .abs    vector_84	(MCUinit_c.obj)
+
+# .abs_vector_85
+  00000154 00000004 .abs    vector_85	(MCUinit_c.obj)
+
+# .abs_vector_86
+  00000158 00000004 .abs    vector_86	(MCUinit_c.obj)
+
+# .abs_vector_87
+  0000015C 00000004 .abs    vector_87	(MCUinit_c.obj)
+
+# .abs_vector_88
+  00000160 00000004 .abs    vector_88	(MCUinit_c.obj)
+
+# .abs_vector_89
+  00000164 00000004 .abs    vector_89	(MCUinit_c.obj)
+
+# .abs_vector_90
+  00000168 00000004 .abs    vector_90	(MCUinit_c.obj)
+
+# .abs_vector_91
+  0000016C 00000004 .abs    vector_91	(MCUinit_c.obj)
+
+# .abs_vector_92
+  00000170 00000004 .abs    vector_92	(MCUinit_c.obj)
+
+# .abs_vector_93
+  00000174 00000004 .abs    vector_93	(MCUinit_c.obj)
+
+# .abs_vector_94
+  00000178 00000004 .abs    vector_94	(MCUinit_c.obj)
+
+# .abs_vector_95
+  0000017C 00000004 .abs    vector_95	(MCUinit_c.obj)
+
+# .abs_vector_96
+  00000180 00000004 .abs    vector_96	(MCUinit_c.obj)
+
+# .abs_vector_97
+  00000184 00000004 .abs    vector_97	(MCUinit_c.obj)
+
+# .abs_vector_98
+  00000188 00000004 .abs    vector_98	(MCUinit_c.obj)
+
+# .abs_vector_99
+  0000018C 00000004 .abs    vector_99	(MCUinit_c.obj)
+
+# .abs_vector_100
+  00000190 00000004 .abs    vector_100	(MCUinit_c.obj)
+
+# .abs_vector_101
+  00000194 00000004 .abs    vector_101	(MCUinit_c.obj)
+
+# .abs_vector_102
+  00000198 00000004 .abs    vector_102	(MCUinit_c.obj)
+
+# .abs_vector_103
+  0000019C 00000004 .abs    vector_103	(MCUinit_c.obj)
+
+# .abs_vector_104
+  000001A0 00000004 .abs    vector_104	(MCUinit_c.obj)
+
+# .abs_vector_105
+  000001A4 00000004 .abs    vector_105	(MCUinit_c.obj)
+
+# .abs_vector_106
+  000001A8 00000004 .abs    vector_106	(MCUinit_c.obj)
+
+# .abs_vector_107
+  000001AC 00000004 .abs    vector_107	(MCUinit_c.obj)
+
+# .abs_vector_108
+  000001B0 00000004 .abs    vector_108	(MCUinit_c.obj)
+
+# .abs_vector_109
+  000001B4 00000004 .abs    vector_109	(MCUinit_c.obj)
+
+# .abs_vector_110
+  000001B8 00000004 .abs    vector_110	(MCUinit_c.obj)
+
+# .abs_vector_111
+  000001BC 00000004 .abs    vector_111	(MCUinit_c.obj)
+
+# .abs_vector_112
+  000001C0 00000004 .abs    vector_112	(MCUinit_c.obj)
+
+# .abs_vector_113
+  000001C4 00000004 .abs    vector_113	(MCUinit_c.obj)
+
+# .abs_vector_114
+  000001C8 00000004 .abs    vector_114	(MCUinit_c.obj)
+
+# .abs_CHKSBYP1_INIT
+  0000040A 00000001 .abs    CHKSBYP1_INIT	(MCUinit_c.obj)
+
+# .abs_NV1PROT_INIT
+  0000040D 00000001 .abs    NV1PROT_INIT	(MCUinit_c.obj)
+
+# .abs_NV1OPT_INIT
+  0000040F 00000001 .abs    NV1OPT_INIT	(MCUinit_c.obj)
+
+# .abs_CHKSBYP2_INIT
+  0002040A 00000001 .abs    CHKSBYP2_INIT	(MCUinit_c.obj)
+
+# .abs_NV2PROT_INIT
+  0002040D 00000001 .abs    NV2PROT_INIT	(MCUinit_c.obj)
+
+# .abs_NV2OPT_INIT
+  0002040F 00000001 .abs    NV2OPT_INIT	(MCUinit_c.obj)
+#>00000400          ___heap_size (linker command file)
+#>00000400          ___stack_size (linker command file)
+#>00800000          ___RAM_ADDRESS (linker command file)
+#>00008000          ___RAM_SIZE (linker command file)
+#>00000000          ___FLASH_ADDRESS (linker command file)
+#>00040000          ___FLASH_SIZE (linker command file)
+
+# .userram
+
+# .code
+
+# .code1
+
+# .text
+  00000414 00000002 .text   __initialize_system	(startcf_c.obj)
+  00000416 00000062 .text   __copy_rom_section	(startcf_c.obj)
+  00000478 00000046 .text   __copy_rom_sections_to_ram	(startcf_c.obj)
+  000004BE 00000004 .text   _ExitProcess	(startcf_c.obj)
+  000004C2 00000210 .text   clear_mem	(startcf_c.obj)
+  000006D2 00000090 .text   _startup	(startcf_c.obj)
+  00000762 00000084 .text   main	(main_c.obj)
+  000007E6 00000024 .text   channel_ADC	(aplicacao_c.obj)
+  0000080A 000000AC .text   temperatura	(aplicacao_c.obj)
+  000008B6 000002F8 .text   Tensao_RMS	(aplicacao_c.obj)
+  00000BAE 0000013C .text   read_ch	(aplicacao_c.obj)
+  00000CEA 00000174 .text   Tempo_PWM	(aplicacao_c.obj)
+  00000E5E 00000400 .text   Controle_PWM	(aplicacao_c.obj)
+  0000125E 0000004C .text   safe_transition	(aplicacao_c.obj)
+  000012AA 0000009E .text   Application_Control	(aplicacao_c.obj)
+  00001348 0000096C .text   PID	(aplicacao_c.obj)
+  00001CB4 00000086 .text   BackLight	(aplicacao_c.obj)
+  00001D3A 00000074 .text   motor_starting	(aplicacao_c.obj)
+  00001DAE 0000002C .text   pass_parameters	(aplicacao_c.obj)
+  00001DDA 0000001A .text   delay_us	(Timer_c.obj)
+  00001DF4 000000D4 .text   __initialize_hardware	(MCUinit_c.obj)
+  00001EC8 000001E8 .text   MCU_init	(MCUinit_c.obj)
+  000020B0 00000002 .text   isr_default	(MCUinit_c.obj)
+  000020B2 00000002 .text   isrVlvd	(MCUinit_c.obj)
+  000020B4 00000034 .text   isrVadc	(MCUinit_c.obj)
+  000020E8 0000004A .text   isrVtpm1ovf	(MCUinit_c.obj)
+  00002132 00000132 .text   isrVtpm2ovf	(MCUinit_c.obj)
+  00002264 000000B0 .text   lcd_envia_nibble	(LCD_c.obj)
+  00002314 0000005E .text   lcd_envia_byte	(LCD_c.obj)
+  00002372 0000016A .text   lcd_ini	(LCD_c.obj)
+  000024DC 0000004A .text   lcd_pos_xy	(LCD_c.obj)
+  00002526 00000042 .text   lcd_escreve_char	(LCD_c.obj)
+  00002568 0000001E .text   lcd_escreve_string	(LCD_c.obj)
+  00002586 00000600 .text   Atualiza_LCD	(Controle_LCD_c.obj)
+  00002B86 0000005A .text   Tela_inicial	(Controle_LCD_c.obj)
+  00002BE0 000002DA .text   __ieee754_sqrt	(libm.a e_sqrt.o       )
+  00002EBA 0000003A .text   sqrt	(libm.a w_sqrt.o       )
+  00002EF4 00000012 .text   memcpy	(libc.a mem.o          )
+  00002F06 0000001E .text   memchr	(libc.a mem.o          )
+  00002F24 00000038 .text   __StringWrite	(libc.a printf.o       )
+  00002F5C 0000005A .text   vsnprintf	(libc.a printf.o       )
+  00002FB6 0000001A .text   sprintf	(libc.a printf.o       )
+  00002FD0 00000010 .text   strlen	(libc.a string.o       )
+  00002FE0 0000001C .text   strchr	(libc.a string.o       )
+  00002FFC 0000001A .text   isdigit	(libc.a strtold.o      )
+  00003016 0000028E .text   parse_format	(libc.a printformat_.o )
+  000032A4 00000028 .text   set_base	(libc.a printformat_.o )
+  000032CC 000000C0 .text   justify_conversion	(libc.a printformat_.o )
+  0000338C 0000011A .text   long2str	(libc.a printformat_.o )
+  000034A6 000003BA .text   __pformatter	(libc.a printformat_.o )
+  00003860 0000001C .text   __call_static_initializers	(librt.a cf_staticinitia)
+  0000387C 0000002C .text   __destroy_global_chain	(librt.a cf_staticinitia)
+  000038A8 0000003E .text   __ldivu__	(librt.a cf_runtime.o   )
+  000038E6 00000034 .text   __ldiv__	(librt.a cf_runtime.o   )
+  0000391A 0000003C .text   __lmodu__	(librt.a cf_runtime.o   )
+  00003956 0000000C .text   _ewl_exit	(librt.a abort_exit.o   )
+  00003964 00000614 .text   .text	(fp_coldfire_nodiv.a dadd.o         )
+  00003964 00000000 .text   _d_add	(fp_coldfire_nodiv.a dadd.o         )
+  00003964 00000614 .text   @DummyFn2	(fp_coldfire_nodiv.a dadd.o         )
+  00003B94 00000000 .text   _d_sub	(fp_coldfire_nodiv.a dadd.o         )
+  00003F78 0000015E .text   @DummyFn3	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F78 0000015E .text   .text	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F78 00000000 .text   _d_cmp	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F82 00000000 .text   _d_cmpe	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F8C 00000000 .text   _d_feq	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F92 00000000 .text   _d_fne	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F98 00000000 .text   _d_flt	(fp_coldfire_nodiv.a dcompare.o     )
+  00003F9E 00000000 .text   _d_fle	(fp_coldfire_nodiv.a dcompare.o     )
+  00003FA4 00000000 .text   _d_fgt	(fp_coldfire_nodiv.a dcompare.o     )
+  00003FAA 00000000 .text   _d_fge	(fp_coldfire_nodiv.a dcompare.o     )
+  00003FB4 00000000 .text   _d_fun	(fp_coldfire_nodiv.a dcompare.o     )
+  00003FBA 00000000 .text   _d_for	(fp_coldfire_nodiv.a dcompare.o     )
+  000040D8 00000448 .text   @DummyFn4	(fp_coldfire_nodiv.a ddiv.o         )
+  000040D8 00000000 .text   _d_div	(fp_coldfire_nodiv.a ddiv.o         )
+  000040D8 00000448 .text   .text	(fp_coldfire_nodiv.a ddiv.o         )
+  00004520 00000598 .text   @DummyFn5	(fp_coldfire_nodiv.a dmul.o         )
+  00004520 00000000 .text   _d_mul	(fp_coldfire_nodiv.a dmul.o         )
+  00004520 00000598 .text   .text	(fp_coldfire_nodiv.a dmul.o         )
+  00004AB8 00000056 .text   @DummyFn6	(fp_coldfire_nodiv.a dterminals.o   )
+  00004AB8 00000000 .text   _fp_d_rounding	(fp_coldfire_nodiv.a dterminals.o   )
+  00004AB8 00000056 .text   .text	(fp_coldfire_nodiv.a dterminals.o   )
+  00004AE0 00000000 .text   _fp_d_underflow	(fp_coldfire_nodiv.a dterminals.o   )
+  00004AF4 00000000 .text   _fp_d_overflow	(fp_coldfire_nodiv.a dterminals.o   )
+  00004B10 00000164 .text   @DummyFn7	(fp_coldfire_nodiv.a dtof.o         )
+  00004B10 00000000 .text   _f_qtof	(fp_coldfire_nodiv.a dtof.o         )
+  00004B10 00000000 .text   _d_dtof	(fp_coldfire_nodiv.a dtof.o         )
+  00004B10 00000164 .text   .text	(fp_coldfire_nodiv.a dtof.o         )
+  00004C74 00000064 .text   @DummyFn10	(fp_coldfire_nodiv.a dtou.o         )
+  00004C74 00000000 .text   _d_dtou	(fp_coldfire_nodiv.a dtou.o         )
+  00004C74 00000064 .text   .text	(fp_coldfire_nodiv.a dtou.o         )
+  00004CD8 000005D0 .text   @DummyFn12	(fp_coldfire_nodiv.a fadd.o         )
+  00004CD8 000005D0 .text   .text	(fp_coldfire_nodiv.a fadd.o         )
+  00004CD8 00000000 .text   _f_sub	(fp_coldfire_nodiv.a fadd.o         )
+  00004CF4 00000000 .text   _f_add	(fp_coldfire_nodiv.a fadd.o         )
+  000052A8 000002C0 .text   @DummyFn14	(fp_coldfire_nodiv.a fdiv.o         )
+  000052A8 00000000 .text   _f_div	(fp_coldfire_nodiv.a fdiv.o         )
+  000052A8 000002C0 .text   .text	(fp_coldfire_nodiv.a fdiv.o         )
+  00005568 00000390 .text   @DummyFn15	(fp_coldfire_nodiv.a fmul.o         )
+  00005568 00000000 .text   _f_mul	(fp_coldfire_nodiv.a fmul.o         )
+  00005568 00000390 .text   .text	(fp_coldfire_nodiv.a fmul.o         )
+  000058F8 0000001A .text   .text	(fp_coldfire_nodiv.a fterminals.o   )
+  000058F8 00000000 .text   _fp_f_overflow	(fp_coldfire_nodiv.a fterminals.o   )
+  000058F8 0000001A .text   @DummyFn16	(fp_coldfire_nodiv.a fterminals.o   )
+  00005908 00000000 .text   _fp_f_underflow	(fp_coldfire_nodiv.a fterminals.o   )
+  00005914 000000EC .text   @DummyFn17	(fp_coldfire_nodiv.a ftod.o         )
+  00005914 00000000 .text   _f_ftod	(fp_coldfire_nodiv.a ftod.o         )
+  00005914 00000000 .text   _f_ftoq	(fp_coldfire_nodiv.a ftod.o         )
+  00005914 000000EC .text   .text	(fp_coldfire_nodiv.a ftod.o         )
+  00005A00 0000006A .text   @DummyFn18	(fp_coldfire_nodiv.a ftoi.o         )
+  00005A00 00000000 .text   _f_ftoi	(fp_coldfire_nodiv.a ftoi.o         )
+  00005A00 0000006A .text   .text	(fp_coldfire_nodiv.a ftoi.o         )
+  00005A6C 0000004A .text   @DummyFn20	(fp_coldfire_nodiv.a ftou.o         )
+  00005A6C 00000000 .text   _f_ftou	(fp_coldfire_nodiv.a ftou.o         )
+  00005A6C 0000004A .text   .text	(fp_coldfire_nodiv.a ftou.o         )
+  00005AB8 00000136 .text   @DummyFn22	(fp_coldfire_nodiv.a int_to_d.o     )
+  00005AB8 00000136 .text   .text	(fp_coldfire_nodiv.a int_to_d.o     )
+  00005AB8 00000000 .text   _d_utod	(fp_coldfire_nodiv.a int_to_d.o     )
+  00005AFE 00000000 .text   _d_itod	(fp_coldfire_nodiv.a int_to_d.o     )
+  00005B1A 00000000 .text   _d_ulltod	(fp_coldfire_nodiv.a int_to_d.o     )
+  00005BAC 00000000 .text   _d_lltod	(fp_coldfire_nodiv.a int_to_d.o     )
+  00005BF0 00000126 .text   @DummyFn23	(fp_coldfire_nodiv.a int_to_f.o     )
+  00005BF0 00000126 .text   .text	(fp_coldfire_nodiv.a int_to_f.o     )
+  00005BF0 00000000 .text   _f_utof	(fp_coldfire_nodiv.a int_to_f.o     )
+  00005C40 00000000 .text   _f_itof	(fp_coldfire_nodiv.a int_to_f.o     )
+  00005C5C 00000000 .text   _f_ulltof	(fp_coldfire_nodiv.a int_to_f.o     )
+  00005CD0 00000000 .text   _f_lltof	(fp_coldfire_nodiv.a int_to_f.o     )
+  00005D18 00000058 .text   @DummyFn24	(fp_coldfire_nodiv.a soft_division.o)
+  00005D18 00000000 .text   _fp_PA_divu16	(fp_coldfire_nodiv.a soft_division.o)
+  00005D18 00000058 .text   .text	(fp_coldfire_nodiv.a soft_division.o)
+  00005D70 00000011 .rodata @210	(Controle_LCD_c.obj)
+  00005D81 00000011 .rodata @211	(Controle_LCD_c.obj)
+  00005D92 0000000F .rodata @212	(Controle_LCD_c.obj)
+  00005DA1 00000011 .rodata @213	(Controle_LCD_c.obj)
+  00005DB2 00000012 .rodata @214	(Controle_LCD_c.obj)
+  00005DC4 00000011 .rodata @215	(Controle_LCD_c.obj)
+  00005DD5 00000011 .rodata @216	(Controle_LCD_c.obj)
+  00005DE6 00000011 .rodata @217	(Controle_LCD_c.obj)
+  00005DF7 00000011 .rodata @218	(Controle_LCD_c.obj)
+  00005E08 00000081 .rodata _ctypes_	(libc.a ctype.o        )
+  00005E89 00000001 .rodata @611	(libc.a printformat_.o )
+#>00005E8C          ___ROM_AT (linker command file)
+#>00005E8C          ___DATA_ROM (linker command file)
+
+# .data
+#>00800000          ___DATA_RAM (linker command file)
+#>00800000          __exception_table_start__ (linker command file)
+# Exception index
+  00800000 00000000         Exception Table Index	()
+#>00800000          __exception_table_end__ (linker command file)
+#>00800000          ___sinit__ (linker command file)
+# Linker generated symbols
+  00800000 00000004         static initializer	(linker generated)
+#>00800004          __START_DATA (linker command file)
+#>00800004          __END_DATA (linker command file)
+#>00800004          __START_SDATA (linker command file)
+  00800004 00000001 .sdata  controle_estado	(aplicacao_c.obj)
+  00800005 00000011 .sdata  LCD_LINHA_1	(aplicacao_c.obj)
+  00800016 00000011 .sdata  LCD_LINHA_2	(aplicacao_c.obj)
+  00800027 00000001 .sdata  calc_rms	(aplicacao_c.obj)
+  00800028 00000001 .sdata  state_PWM	(aplicacao_c.obj)
+  00800029 00000001 .sdata  frequencia	(aplicacao_c.obj)
+  0080002A 00000001 .sdata  p_tensao	(aplicacao_c.obj)
+  0080002C 00000004 .sdata  posicao_termo	(aplicacao_c.obj)
+  00800030 00000001 .sdata  estado_LCD	(aplicacao_c.obj)
+  00800031 00000001 .sdata  backlight	(aplicacao_c.obj)
+  00800032 00000001 .sdata  inc_freq	(aplicacao_c.obj)
+  00800033 00000001 .sdata  inc_tensao	(aplicacao_c.obj)
+  00800034 00000001 .sdata  target_freq	(aplicacao_c.obj)
+  00800035 00000001 .sdata  target_tensao	(aplicacao_c.obj)
+  00800038 00000008 .sdata  __double_nan	(libm.a float.o        )
+#>00800040          __END_SDATA (linker command file)
+#>00800040          ___DATA_END (linker command file)
+#>00800040          __SDA_BASE (linker command file)
+
+# .bss
+#>00800040          ___BSS_START (linker command file)
+#>00800040          __START_SBSS (linker command file)
+  00800040 00000001 .sbss   controle_inicial	(main_c.obj)
+  00800044 00000004 .sbss   timer	(aplicacao_c.obj)
+  00800048 00000004 .sbss   safe_time	(aplicacao_c.obj)
+  0080004C 00000004 .sbss   t_OFF	(aplicacao_c.obj)
+  00800050 00000004 .sbss   t_ON	(aplicacao_c.obj)
+  00800054 00000004 .sbss   number	(aplicacao_c.obj)
+  00800058 00000004 .sbss   temp_mV	(aplicacao_c.obj)
+  0080005C 00000004 .sbss   x1	(aplicacao_c.obj)
+  00800060 00000004 .sbss   x2	(aplicacao_c.obj)
+  00800064 00000004 .sbss   x3	(aplicacao_c.obj)
+  00800068 00000004 .sbss   x4	(aplicacao_c.obj)
+  0080006C 00000004 .sbss   x5	(aplicacao_c.obj)
+  00800070 00000004 .sbss   temp	(aplicacao_c.obj)
+  00800074 00000004 .sbss   temperature	(aplicacao_c.obj)
+  00800078 00000004 .sbss   teste_ch	(aplicacao_c.obj)
+  0080007C 00000004 .sbss   teste_ch2	(aplicacao_c.obj)
+  00800080 00000004 .sbss   teste_ch3	(aplicacao_c.obj)
+  00800084 00000004 .sbss   teste_ch4	(aplicacao_c.obj)
+  00800088 00000001 .sbss   Flag_ch1	(aplicacao_c.obj)
+  00800089 00000001 .sbss   Flag_ch2	(aplicacao_c.obj)
+  0080008A 00000001 .sbss   Flag_ch3	(aplicacao_c.obj)
+  0080008B 00000001 .sbss   Flag_ch4	(aplicacao_c.obj)
+  0080008C 00000001 .sbss   Flag_Overflow_TPM2	(aplicacao_c.obj)
+  0080008D 00000001 .sbss   Flag_Overflow_TPM1	(aplicacao_c.obj)
+  0080008E 00000001 .sbss   Flag_Start_TPM1	(aplicacao_c.obj)
+  0080008F 00000001 .sbss   Flag_Start_Contador_CH	(aplicacao_c.obj)
+  00800090 00000001 .sbss   Flag_Overflow_CH	(aplicacao_c.obj)
+  00800091 00000001 .sbss   Flag_Start_Contador_LCD	(aplicacao_c.obj)
+  00800092 00000001 .sbss   Flag_Overflow_LCD	(aplicacao_c.obj)
+  00800093 00000001 .sbss   Flag_Start_PWM	(aplicacao_c.obj)
+  00800094 00000001 .sbss   Flag_Motor_ON	(aplicacao_c.obj)
+  00800095 00000001 .sbss   Flag_Start_Motor	(aplicacao_c.obj)
+  00800096 00000001 .sbss   Flag_Overflow_Motor	(aplicacao_c.obj)
+  00800097 00000001 .sbss   Flag_Start_Contador_Motor	(aplicacao_c.obj)
+  00800098 00000001 .sbss   Flag_Start_Repouso	(aplicacao_c.obj)
+  00800099 00000001 .sbss   Flag_Overflow_Repouso	(aplicacao_c.obj)
+  0080009C 00000004 .sbss   contador_TPM1	(MCUinit_c.obj)
+  008000A0 00000004 .sbss   contador_TPM2	(MCUinit_c.obj)
+  008000A4 00000004 .sbss   contador_CH	(MCUinit_c.obj)
+  008000A8 00000004 .sbss   contador_LCD	(MCUinit_c.obj)
+  008000AC 00000004 .sbss   contador_motor	(MCUinit_c.obj)
+  008000B0 00000004 .sbss   contador_repouso	(MCUinit_c.obj)
+  008000B4 00000001 .sbss   channel	(MCUinit_c.obj)
+  008000B8 00000004 .sbss   read_adc	(MCUinit_c.obj)
+  008000BC 00000004 .sbss   resultado	(MCUinit_c.obj)
+  008000C0 00000001 .sbss   modo_lcd2	(LCD_c.obj)
+  008000C4 00000004 .sbss   errno	(libc.a errno.o        )
+#>008000C8          __END_SBSS (linker command file)
+#>008000C8          __START_BSS (linker command file)
+  008000C8 00000004 .bss    __global_destructor_chain	(librt.a cf_staticinitia)
+#>008000CC          __END_BSS (linker command file)
+#>008000CC          ___BSS_END (linker command file)
+
+# .custom
+#>008000CC          ___HEAP_START (linker command file)
+#>008000CC          ___heap_addr (linker command file)
+#>008004CC          ___HEAP_END (linker command file)
+#>008004CC          ___SP_END (linker command file)
+#>008008CC          ___SP_INIT (linker command file)
+#>008004CC          ___mem_limit (linker command file)
+#>00000010          ___stack_safety (linker command file)
+#>008008CC          __SP_INIT (linker command file)
+#>008008CC          ___SP_AFTER_RESET (linker command file)
+#>00005ECC          _romp_at (linker command file)
+
+# .romp
+#>00005ECC          __S_romp (linker command file)
+
+
+# Memory map:
+  v_addr   p_addr   size     name
+  00000000 00000000 00000004 .abs_vector_0 abs_vector_0
+  00000004 00000004 00000004 .abs_vector_1 abs_vector_1
+  00000008 00000008 00000004 .abs_vector_2 abs_vector_2
+  0000000C 0000000C 00000004 .abs_vector_3 abs_vector_3
+  00000010 00000010 00000004 .abs_vector_4 abs_vector_4
+  00000014 00000014 00000004 .abs_vector_5 abs_vector_5
+  00000018 00000018 00000004 .abs_vector_6 abs_vector_6
+  0000001C 0000001C 00000004 .abs_vector_7 abs_vector_7
+  00000020 00000020 00000004 .abs_vector_8 abs_vector_8
+  00000024 00000024 00000004 .abs_vector_9 abs_vector_9
+  00000028 00000028 00000004 .abs_vector_10 abs_vector_10
+  0000002C 0000002C 00000004 .abs_vector_11 abs_vector_11
+  00000030 00000030 00000004 .abs_vector_12 abs_vector_12
+  00000034 00000034 00000004 .abs_vector_13 abs_vector_13
+  00000038 00000038 00000004 .abs_vector_14 abs_vector_14
+  0000003C 0000003C 00000004 .abs_vector_15 abs_vector_15
+  00000040 00000040 00000004 .abs_vector_16 abs_vector_16
+  00000044 00000044 00000004 .abs_vector_17 abs_vector_17
+  00000048 00000048 00000004 .abs_vector_18 abs_vector_18
+  0000004C 0000004C 00000004 .abs_vector_19 abs_vector_19
+  00000050 00000050 00000004 .abs_vector_20 abs_vector_20
+  00000054 00000054 00000004 .abs_vector_21 abs_vector_21
+  00000058 00000058 00000004 .abs_vector_22 abs_vector_22
+  0000005C 0000005C 00000004 .abs_vector_23 abs_vector_23
+  00000060 00000060 00000004 .abs_vector_24 abs_vector_24
+  00000064 00000064 00000004 .abs_vector_25 abs_vector_25
+  00000068 00000068 00000004 .abs_vector_26 abs_vector_26
+  0000006C 0000006C 00000004 .abs_vector_27 abs_vector_27
+  00000070 00000070 00000004 .abs_vector_28 abs_vector_28
+  00000074 00000074 00000004 .abs_vector_29 abs_vector_29
+  00000078 00000078 00000004 .abs_vector_30 abs_vector_30
+  0000007C 0000007C 00000004 .abs_vector_31 abs_vector_31
+  00000080 00000080 00000004 .abs_vector_32 abs_vector_32
+  00000084 00000084 00000004 .abs_vector_33 abs_vector_33
+  00000088 00000088 00000004 .abs_vector_34 abs_vector_34
+  0000008C 0000008C 00000004 .abs_vector_35 abs_vector_35
+  00000090 00000090 00000004 .abs_vector_36 abs_vector_36
+  00000094 00000094 00000004 .abs_vector_37 abs_vector_37
+  00000098 00000098 00000004 .abs_vector_38 abs_vector_38
+  0000009C 0000009C 00000004 .abs_vector_39 abs_vector_39
+  000000A0 000000A0 00000004 .abs_vector_40 abs_vector_40
+  000000A4 000000A4 00000004 .abs_vector_41 abs_vector_41
+  000000A8 000000A8 00000004 .abs_vector_42 abs_vector_42
+  000000AC 000000AC 00000004 .abs_vector_43 abs_vector_43
+  000000B0 000000B0 00000004 .abs_vector_44 abs_vector_44
+  000000B4 000000B4 00000004 .abs_vector_45 abs_vector_45
+  000000B8 000000B8 00000004 .abs_vector_46 abs_vector_46
+  000000BC 000000BC 00000004 .abs_vector_47 abs_vector_47
+  000000C0 000000C0 00000004 .abs_vector_48 abs_vector_48
+  000000C4 000000C4 00000004 .abs_vector_49 abs_vector_49
+  000000C8 000000C8 00000004 .abs_vector_50 abs_vector_50
+  000000CC 000000CC 00000004 .abs_vector_51 abs_vector_51
+  000000D0 000000D0 00000004 .abs_vector_52 abs_vector_52
+  000000D4 000000D4 00000004 .abs_vector_53 abs_vector_53
+  000000D8 000000D8 00000004 .abs_vector_54 abs_vector_54
+  000000DC 000000DC 00000004 .abs_vector_55 abs_vector_55
+  000000E0 000000E0 00000004 .abs_vector_56 abs_vector_56
+  000000E4 000000E4 00000004 .abs_vector_57 abs_vector_57
+  000000E8 000000E8 00000004 .abs_vector_58 abs_vector_58
+  000000EC 000000EC 00000004 .abs_vector_59 abs_vector_59
+  000000F0 000000F0 00000004 .abs_vector_60 abs_vector_60
+  000000F4 000000F4 00000004 .abs_vector_61 abs_vector_61
+  000000F8 000000F8 00000004 .abs_vector_62 abs_vector_62
+  000000FC 000000FC 00000004 .abs_vector_63 abs_vector_63
+  00000100 00000100 00000004 .abs_vector_64 abs_vector_64
+  00000104 00000104 00000004 .abs_vector_65 abs_vector_65
+  00000108 00000108 00000004 .abs_vector_66 abs_vector_66
+  0000010C 0000010C 00000004 .abs_vector_67 abs_vector_67
+  00000110 00000110 00000004 .abs_vector_68 abs_vector_68
+  00000114 00000114 00000004 .abs_vector_69 abs_vector_69
+  00000118 00000118 00000004 .abs_vector_70 abs_vector_70
+  0000011C 0000011C 00000004 .abs_vector_71 abs_vector_71
+  00000120 00000120 00000004 .abs_vector_72 abs_vector_72
+  00000124 00000124 00000004 .abs_vector_73 abs_vector_73
+  00000128 00000128 00000004 .abs_vector_74 abs_vector_74
+  0000012C 0000012C 00000004 .abs_vector_75 abs_vector_75
+  00000130 00000130 00000004 .abs_vector_76 abs_vector_76
+  00000134 00000134 00000004 .abs_vector_77 abs_vector_77
+  00000138 00000138 00000004 .abs_vector_78 abs_vector_78
+  0000013C 0000013C 00000004 .abs_vector_79 abs_vector_79
+  00000140 00000140 00000004 .abs_vector_80 abs_vector_80
+  00000144 00000144 00000004 .abs_vector_81 abs_vector_81
+  00000148 00000148 00000004 .abs_vector_82 abs_vector_82
+  0000014C 0000014C 00000004 .abs_vector_83 abs_vector_83
+  00000150 00000150 00000004 .abs_vector_84 abs_vector_84
+  00000154 00000154 00000004 .abs_vector_85 abs_vector_85
+  00000158 00000158 00000004 .abs_vector_86 abs_vector_86
+  0000015C 0000015C 00000004 .abs_vector_87 abs_vector_87
+  00000160 00000160 00000004 .abs_vector_88 abs_vector_88
+  00000164 00000164 00000004 .abs_vector_89 abs_vector_89
+  00000168 00000168 00000004 .abs_vector_90 abs_vector_90
+  0000016C 0000016C 00000004 .abs_vector_91 abs_vector_91
+  00000170 00000170 00000004 .abs_vector_92 abs_vector_92
+  00000174 00000174 00000004 .abs_vector_93 abs_vector_93
+  00000178 00000178 00000004 .abs_vector_94 abs_vector_94
+  0000017C 0000017C 00000004 .abs_vector_95 abs_vector_95
+  00000180 00000180 00000004 .abs_vector_96 abs_vector_96
+  00000184 00000184 00000004 .abs_vector_97 abs_vector_97
+  00000188 00000188 00000004 .abs_vector_98 abs_vector_98
+  0000018C 0000018C 00000004 .abs_vector_99 abs_vector_99
+  00000190 00000190 00000004 .abs_vector_100 abs_vector_100
+  00000194 00000194 00000004 .abs_vector_101 abs_vector_101
+  00000198 00000198 00000004 .abs_vector_102 abs_vector_102
+  0000019C 0000019C 00000004 .abs_vector_103 abs_vector_103
+  000001A0 000001A0 00000004 .abs_vector_104 abs_vector_104
+  000001A4 000001A4 00000004 .abs_vector_105 abs_vector_105
+  000001A8 000001A8 00000004 .abs_vector_106 abs_vector_106
+  000001AC 000001AC 00000004 .abs_vector_107 abs_vector_107
+  000001B0 000001B0 00000004 .abs_vector_108 abs_vector_108
+  000001B4 000001B4 00000004 .abs_vector_109 abs_vector_109
+  000001B8 000001B8 00000004 .abs_vector_110 abs_vector_110
+  000001BC 000001BC 00000004 .abs_vector_111 abs_vector_111
+  000001C0 000001C0 00000004 .abs_vector_112 abs_vector_112
+  000001C4 000001C4 00000004 .abs_vector_113 abs_vector_113
+  000001C8 000001C8 00000004 .abs_vector_114 abs_vector_114
+  0000040A 0000040A 00000001 .abs_CHKSBYP1_INIT abs_CHKSBYP1_INIT
+  0000040D 0000040D 00000001 .abs_NV1PROT_INIT abs_NV1PROT_INIT
+  0000040F 0000040F 00000001 .abs_NV1OPT_INIT abs_NV1OPT_INIT
+  0002040A 0002040A 00000001 .abs_CHKSBYP2_INIT abs_CHKSBYP2_INIT
+  0002040D 0002040D 00000001 .abs_NV2PROT_INIT abs_NV2PROT_INIT
+  0002040F 0002040F 00000001 .abs_NV2OPT_INIT abs_NV2OPT_INIT
+  00000414 00000414 00000000 .code      code
+  00000414 00000414 00005A78 .text      code
+  00020410 00020410 00000000 .code1     code_00020410
+  00800000 00800000 00000000 .userram   userram
+  00800000 00005E8C 00000040 .data      userram
+  00800040 00800040 0000008C .bss       userram
+  008000CC 008000CC 00000000 .custom    userram
+  008000CC 00005ECC 00000018 .romp      userram
+
+# Link start time: Fri Oct 04 21:41:07 2013
+# Link end time: Fri Oct 04 21:41:07 2013

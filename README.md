@@ -12,8 +12,6 @@ Atualmente, apenas os refrigeradores de alto custo possuem esse sistema de contr
 
 O trabalho de Conclusão de Curso realizado por:
 
-*EvandroTeixeira
-*Gerson Cezar Stein Junior
-*Guilherme Martino
+EvandroTeixeira, Gerson Cezar Stein Junior, Guilherme Martino.
 
 Orientado pelo Professor Marcus Vinícius Ataíde
